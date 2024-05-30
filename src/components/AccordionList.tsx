@@ -9,7 +9,7 @@ export default function AccordionList() {
   return (
     <Accordion type='single' collapsible className='w-full'>
       <AccordionItem value='item-1' className='mb-8'>
-        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-2xl text-left text-left'>
+        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-2xl text-left'>
           What is tax compliance advisory?
         </AccordionTrigger>
         <AccordionContent className='px-12 py-7 text-lg'>
@@ -25,9 +25,9 @@ export default function AccordionList() {
         </AccordionTrigger>
         <AccordionContent className='px-12 py-7 text-lg'>
           A tax consultant can offer ongoing tax planning and advice by
-          regularly reviewing a client’s financial situation, staying updated on
-          tax legislation changes, and recommending tailored strategies to
-          maximize tax efficiency and savings.
+          regularly reviewing a client&apos;s financial situation, staying
+          updated on tax legislation changes, and recommending tailored
+          strategies to maximize tax efficiency and savings.
         </AccordionContent>
       </AccordionItem>
       <AccordionItem value='item-3' className='mb-8'>
@@ -36,9 +36,9 @@ export default function AccordionList() {
           preparing and filing tax returns for clients?
         </AccordionTrigger>
         <AccordionContent className='px-12 py-7 text-lg'>
-          A tax consultant typically assesses the client’s financial documents,
-          calculates tax liabilities or refunds, ensures compliance with tax
-          laws, and files the tax return with the relevant authorities.
+          A tax consultant typically assesses the client&apos;s financial
+          documents, calculates tax liabilities or refunds, ensures compliance
+          with tax laws, and files the tax return with the relevant authorities.
         </AccordionContent>
       </AccordionItem>
       <AccordionItem value='item-4' className='mb-8'>
