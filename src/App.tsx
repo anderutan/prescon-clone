@@ -3,6 +3,7 @@ import Choose from './sections/Choose';
 import Contact from './sections/Contact';
 import FAQ from './sections/FAQ';
 import Features from './sections/Features';
+import Footer from './sections/Footer';
 import Header from './sections/Header';
 import RoleAndResponsibilities from './sections/RoleAndResponsibilities';
 import Service from './sections/Service';
@@ -18,6 +19,7 @@ function App() {
       <Choose />
       <Contact />
       <FAQ />
+      <Footer />
     </main>
   );
 }

@@ -9,7 +9,7 @@ export default function AccordionList() {
   return (
     <Accordion type='single' collapsible className='w-full'>
       <AccordionItem value='item-1' className='mb-8'>
-        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-3xl text-left text-left'>
+        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-2xl text-left text-left'>
           What is tax compliance advisory?
         </AccordionTrigger>
         <AccordionContent className='px-12 py-7 text-lg'>
@@ -19,7 +19,7 @@ export default function AccordionList() {
         </AccordionContent>
       </AccordionItem>
       <AccordionItem value='item-2' className='mb-8'>
-        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-3xl text-left'>
+        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-2xl text-left'>
           How can a tax consultant provide ongoing tax planning and advice to
           individuals or businesses to optimize their financial strategies?
         </AccordionTrigger>
@@ -31,7 +31,7 @@ export default function AccordionList() {
         </AccordionContent>
       </AccordionItem>
       <AccordionItem value='item-3' className='mb-8'>
-        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-3xl text-left'>
+        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-2xl text-left'>
           What is the process typically followed by a tax consultant when
           preparing and filing tax returns for clients?
         </AccordionTrigger>
@@ -42,7 +42,7 @@ export default function AccordionList() {
         </AccordionContent>
       </AccordionItem>
       <AccordionItem value='item-4' className='mb-8'>
-        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-3xl text-left'>
+        <AccordionTrigger className='bg-[#9A6575] text-white px-12 py-10 text-2xl text-left'>
           How much does it cost to hire a tax consultant service company in
           Malaysia?
         </AccordionTrigger>
