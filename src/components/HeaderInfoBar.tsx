@@ -7,7 +7,7 @@ import HeaderInfo from './HeaderInfo';
 
 const HeaderInfoBar = () => {
   return (
-    <div className='w-2/3 mx-auto py-2 flex justify-between items-center'>
+    <div className='w-2/3 mx-auto py-2 flex justify-between items-center h-[100px]'>
       <div>
         <img src={logo} alt='prescon-logo' />
       </div>

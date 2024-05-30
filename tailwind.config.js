@@ -9,7 +9,7 @@ export default {
         'bg-main': '#C2C1C0',
         'bg-second': '#231F20',
         'bg-third': '#5F464E',
-        border: '#707070',
+        'border-color': '#707070',
       },
     },
   },

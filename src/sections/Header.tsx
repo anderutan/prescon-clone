@@ -4,10 +4,10 @@ import heroImg from '../assets/Prescon-hero-image-desktop.png';
 
 const Header = () => {
   return (
-    <header className='h-[500px]'>
+    <header className='h-[666px]'>
       <HeaderInfoBar />
       <div
-        className='w-full h-full relative'
+        className='w-full h-[566px] relative'
         style={{
           backgroundImage: `url(${heroImg})`,
           backgroundSize: 'cover',
