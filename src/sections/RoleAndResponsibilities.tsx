@@ -55,11 +55,11 @@ const RoleAndResponsibilities = () => {
         <div className='w-[70%] ml-auto'>
           <h2 className='text-5xl font-bold mb-16 leading-snug'>
             ROLE AND RESPONSIBILITIES <br />
-            <span className='text-header-main'>
+            <span className='text-[#9A6575]'>
               OF A PRESCON TAX COMPLIANCE ADVISORY SERVICES
             </span>
           </h2>
-          <div className='w-32 border-b-4 border-header-main mb-16'></div>
+          <div className='w-32 border-b-4 border-[#9A6575] mb-16'></div>
           <p className='text-2xl pb-10'>
             When you engage our tax compliance advisory services, you can expect
             a wide range of support and expertise. Our role and responsibilities

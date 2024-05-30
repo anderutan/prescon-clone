@@ -1,6 +1,7 @@
 import Appoint from './sections/Appoint';
 import Choose from './sections/Choose';
 import Contact from './sections/Contact';
+import FAQ from './sections/FAQ';
 import Features from './sections/Features';
 import Header from './sections/Header';
 import RoleAndResponsibilities from './sections/RoleAndResponsibilities';
@@ -16,6 +17,7 @@ function App() {
       <Appoint />
       <Choose />
       <Contact />
+      <FAQ />
     </main>
   );
 }

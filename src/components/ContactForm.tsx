@@ -56,7 +56,7 @@ export default function ContactForm() {
 
       <input
         type='submit'
-        className='px-10 py-4 bg-header-main rounded-full mt-5'
+        className='px-10 py-4 bg-[#9A6575] rounded-full mt-5'
       />
     </form>
   );

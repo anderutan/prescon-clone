@@ -19,7 +19,7 @@ const Header = () => {
           <h1 className='text-white text-7xl font-bold mb-7'>
             Tax Compliance Advisory
           </h1>
-          <span className='w-32 border-b-4 border-header-main'></span>
+          <span className='w-32 border-b-4 border-[#9A6575]'></span>
         </div>
       </div>
     </header>

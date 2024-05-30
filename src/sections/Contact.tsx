@@ -3,7 +3,7 @@ import contactBg from '../assets/prescon-contact-background.svg';
 
 const Contact = () => {
   return (
-    <section className='w-full py-52 pb-96 bg-bg-second text-white relative'>
+    <section className='w-full py-52 pb-96 bg-[#231F20] text-white relative'>
       <img
         src={contactBg}
         alt='Contact Prescon'
@@ -12,12 +12,12 @@ const Contact = () => {
       <div className='w-2/3 mx-auto flex'>
         <div className='flex-[1.5]'>
           <h2 className='text-5xl font-bold mb-5 leading-snug'>
-            <span className='text-header-main'>CONTACT US</span> RIGHT NOW
+            <span className='text-[#9A6575]'>CONTACT US</span> RIGHT NOW
           </h2>
           <p className='text-2xl mb-16'>
             TO LEARN MORE ABOUT PRESCON HALLMARK TAX CONSULTANT SERVICE
           </p>
-          <div className='w-32 border-b-4 border-header-main mb-10'></div>
+          <div className='w-32 border-b-4 border-[#9A6575] mb-10'></div>
           <p className='text-lg pb-16'>
             Are you ready to experience the best tax compliance services in
             Malaysia? Contact us today to learn more about our Prescon Hallmark

@@ -26,12 +26,12 @@ const appointStep = [
 
 const Appoint = () => {
   return (
-    <section className='w-full pt-56 pb-20 text-white bg-bg-third'>
+    <section className='w-full pt-56 pb-20 text-white bg-[#5E464E]'>
       <div className='w-2/3 mx-auto'>
         <h2 className='text-5xl font-bold mb-16 leading-snug'>
           HOW TO APPOINT <br />A MALAYSIA TAX ADVISORY COMPANY ONLINE?
         </h2>
-        <div className='w-32 border-b-4 border-header-main mb-16'></div>
+        <div className='w-32 border-b-4 border-[#9A6575] mb-16'></div>
         <p className='text-2xl pb-10'>
           If you’re looking to appoint a Malaysia tax advisory company online,
           follow these three simple steps:

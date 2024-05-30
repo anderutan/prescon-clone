@@ -8,13 +8,11 @@ const Service = () => {
       </div>
       <div className='flex-1'>
         <h2 className='text-6xl font-bold mb-20'>
-          <span className='text-header-main leading-normal'>
-            TAX COMPLIANCE
-          </span>
+          <span className='text-[#9A6575] leading-normal'>TAX COMPLIANCE</span>
           <br />
           ADVISORY SERVICE
         </h2>
-        <div className='w-32 border-b-4 border-header-main mb-10'></div>
+        <div className='w-32 border-b-4 border-[#9A6575] mb-10'></div>
         <h3 className='text-3xl mb-16'>
           Best Compliance Services In <br /> Prescon Malaysia
         </h3>
