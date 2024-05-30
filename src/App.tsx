@@ -1,5 +1,6 @@
 import Features from './sections/Features';
 import Header from './sections/Header';
+import RoleAndResponsibilities from './sections/RoleAndResponsibilities';
 import Service from './sections/Service';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Service />
       <Features />
+      <RoleAndResponsibilities />
     </main>
   );
 }
